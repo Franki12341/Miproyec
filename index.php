@@ -4,4 +4,5 @@ echo "<p>Esta es una página de inicio que te permite acceder a diferentes funci
 echo "<p>Selecciona una opción:</p>";
 echo "<a href='suma.php'>Ir a suma</a><br>";
 echo "<a href='factorial.php'>Ir a factorial</a>";
+echo "<br><a href='fibonacci.php'>Ir a Fibonacci</a>";
 ?>
